@@ -1,0 +1,24 @@
+# Visual Studio
+*.sln
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.vcxproj
+*.vcxproj.filters
+
+# Mac / Xcode
+*.xcworkspace
+*.xcuserstate
+
+# Binaries, Build i pliki generowane przez UE
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
